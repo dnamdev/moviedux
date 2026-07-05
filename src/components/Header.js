@@ -1,13 +1,11 @@
 import React from "react";
-import '../styles.css';
+import "../styles.css";
 
-export default function Header(){
-return (
-    <div className='header'>
-        <img className='logo' src='logo.png' alt='Moviedux' />
-        <h2 className='app-subtitle'>
-            It's time for popcorn
-        </h2>
+export default function Header() {
+  return (
+    <div className="header">
+      <img className="logo" src="logo.png" alt="Moviedux" />
+      <h2 className="app-subtitle">It's time for chips</h2>
     </div>
-);
+  );
 }
