@@ -1,0 +1,39 @@
+{
+  "ProductID": "LP-20251013-001",
+  "Product": "Lehenga (Stitched)",
+  "Lehenga": {
+    "Fabric": "Tasar Silk",
+    "Work": "Print With Foil Work And Embossed Design Lace Touch Up",
+    "Waist": "Supported up to 42",
+    "Closer": "Drawstring With Heavy Tassels and Zip",
+    "Stitching": "Stitched With Canvas and attached with Can Can",
+    "Length": "41",
+    "Flair": "3.80 Meter",
+    "Inner": "Micro Crepe",
+    "image": "LP-20251013-001.jpg"
+  },
+  "Blouse": {
+    "Type": "Stitched",
+    "Fabric": "Tasar Silk",
+    "Work": "Print With Foil Work And Embossed Design Lace Touch Up",
+    "Size": "38 (Adjustable up to 42)",
+    "SleeveLength": "11",
+    "Length": "15",
+     "image": "LP-20251013-001-blouse.jpg"
+  },
+  "Dupatta": {
+    "Fabric": "Tasar Silk",
+    "Work": "Print With Foil Work And Embossed Design Lace Touch Up",
+    "Length": "2.40 Meter",
+     "image": "LP-20251013-001-Duppatta.jpg"
+  },
+  "PackageContain": [
+    "Lehenga",
+    "Blouse",
+    "Dupatta",
+    "Drawstring with Zip",
+    "Tassels"
+  ],
+  "Weight": "1.500 KG",
+  "Rate": "1700"
+}
